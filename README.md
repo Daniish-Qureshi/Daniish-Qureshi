@@ -10,6 +10,7 @@ Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong 
 1. [3D Profile Flip Card](https://daniish-qureshi.github.io/3D-Profile-Flip-Card/)
 2. [Calculator](https://daniish-qureshi.github.io/Calculator/)
 3. [Captcha Generator](https://daniish-qureshi.github.io/Captcha-Generator/)
+4. [D Music Player](https://daniish-qureshi.github.io/D-Music-Player/)
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
