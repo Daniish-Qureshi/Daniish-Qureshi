@@ -1,7 +1,6 @@
 [![Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png](https://i.postimg.cc/kgV3BXzz/Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png)](https://postimg.cc/5XMkr1xS)
 
 ## Hi there, I'm Danish Qureshi👋
-
 Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong passion for web development. With a solid foundation in programming and a keen eye for design, I am proficient in HTML, CSS, JavaScript, and various web development frameworks. I have earned several certifications in web technologies, which have honed my skills and expanded my knowledge base. Currently, I am working on exciting web development projects that challenge me to innovate and improve user experiences. I am eager to leverage my skills and enthusiasm to contribute to impactful projects and grow in the dynamic field of web development.
 
 - You can reach me through:
@@ -14,20 +13,16 @@ Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong 
 3. [Captcha Generator](https://daniish-qureshi.github.io/Captcha-Generator/)
 4. [D Music Player](https://daniish-qureshi.github.io/D-Music-Player/)
 
-## Languages and Technologies Used
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+## 📚 Languages and Technologies Used
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&borderColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&borderColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&borderColor=yellow)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black&borderColor=blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black&borderColor=purple)
 
 ## GitHub Stats
 ![Danish Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniish-qureshi&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniish-qureshi&layout=compact&theme=dark)
 
 ## GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=daniish-qureshi&theme=dark)
