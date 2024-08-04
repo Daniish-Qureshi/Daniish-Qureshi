@@ -13,6 +13,9 @@ Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong 
 2. [Calculator](https://daniish-qureshi.github.io/Calculator/)
 3. [Captcha Generator](https://daniish-qureshi.github.io/Captcha-Generator/)
 4. [D Music Player](https://daniish-qureshi.github.io/D-Music-Player/)
+5. ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+6. ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ## Languages and Technologies Used
 
