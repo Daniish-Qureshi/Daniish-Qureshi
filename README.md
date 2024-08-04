@@ -12,18 +12,15 @@ Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong 
 2. [Calculator](https://daniish-qureshi.github.io/Calculator/)
 3. [Captcha Generator](https://daniish-qureshi.github.io/Captcha-Generator/)
 4. [D Music Player](https://daniish-qureshi.github.io/D-Music-Player/)
+5. [Add Book Library System](https://daniish-qureshi.github.io/Add-Book-Library-System/)
+6. [Netflix Clone](https://daniish-qureshi.github.io/Netflix-Clone/)
 
 ## 📚 Languages and Technologies Used
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&borderColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&borderColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&borderColor=yellow)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black&borderColor=blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black&borderColor=purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black&borderColor=cyan)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=black&borderColor=green)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=black&borderColor=red)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black&borderColor=cyan)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&borderColor=green)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## GitHub Stats
 ![Danish Qureshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniish-qureshi&show_icons=true&theme=dark)
