@@ -14,6 +14,8 @@ Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong 
 4. [D Music Player](https://daniish-qureshi.github.io/D-Music-Player/)
 5. [Add Book Library System](https://daniish-qureshi.github.io/Add-Book-Library-System/)
 6. [Netflix Clone](https://daniish-qureshi.github.io/Netflix-Clone/)
+7. [FlippingCard](https://daniish-qureshi.github.io/Flipping-Card/)
+8. [Login & SignupForm ](https://daniish-qureshi.github.io/Login-Singup-Form/)
 
 ## 📚 Languages and Technologies Used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
