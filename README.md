@@ -1,7 +1,7 @@
 [![Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png](https://i.postimg.cc/kgV3BXzz/Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png)](https://postimg.cc/5XMkr1xS)
 
 ## Hi there, I'm Danish Qureshi👋
-Hello! I am Danish Qureshi, a dedicated and ambitious BCA student with a strong passion for web development. With a solid foundation in programming and a keen eye for design, I am proficient in HTML, CSS, JavaScript, and various web development frameworks. I have earned several certifications in web technologies, which have honed my skills and expanded my knowledge base. Currently, I am working on exciting web development projects that challenge me to innovate and improve user experiences. I am eager to leverage my skills and enthusiasm to contribute to impactful projects and grow in the dynamic field of web development.
+I am a BCA student passionate about web development with a strong foundation in HTML, CSS, and JavaScript. I enjoy building projects that improve user experience and have created several personal projects using web technologies. Seeking opportunities in a collaborative environment to apply my web development skills while continuously learning and contributing to impactful projects.
 
 - You can reach me through:
   - [Gmail](mailto:danishwork29@gmail.com)
