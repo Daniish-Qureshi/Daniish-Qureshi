@@ -1,4 +1,4 @@
-[![Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png]([[https://i.postimg.cc/kgV3BXzz/Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png](https://postimage.me/image/file-0000000001e861f9818f2b3d80e6070c.UFiMY6)]
+[[![Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png]([[https://i.postimg.cc/kgV3BXzz/Blue-Modern-Photo-Technology-You-Tube-Banner-20240724-193833-0000.png](https://postimage.me/image/file-0000000001e861f9818f2b3d80e6070c.UFiMY6)]](https://postimage.me/image/file-0000000001e861f9818f2b3d80e6070c.UFiMY6)
 
 ## Hi there, I'm Danish Qureshi👋
 I am a BCA student passionate about web development with a strong foundation in HTML, CSS, and JavaScript. I enjoy building projects that improve user experience and have created several personal projects using web technologies. Seeking opportunities in a collaborative environment to apply my web development skills while continuously learning and contributing to impactful projects.
