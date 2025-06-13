@@ -1,44 +1,88 @@
-<h1 align="center">Hi 👋, I'm Danish Qureshi</h1>
-<h3 align="center">I’m a BCA student passionate about web development, with a solid foundation in HTML, CSS, JavaScript, and UI/UX design. I enjoy creating responsive, user-friendly interfaces and developing projects that enhance user experience. Currently, I'm looking for opportunities in a collaborative and growth-focused environment where I can apply my skills, learn new technologies, and contribute to meaningful projects.</h3>
+![Banner](https://postimage.me/images/2025/05/29/file_0000000001e861f9818f2b3d80e6070c.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniish-qureshi&label=Profile%20views&color=0e75b6&style=flat" alt="daniish-qureshi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniish-qureshi" alt="daniish-qureshi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/daniish_qureshi" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/daniish_qureshi?logo=twitter&style=for-the-badge" alt="https://twitter.com/daniish_qureshi" /></a> </p>
-
-- 🔭 I’m currently working on **SignBridge – A Sign Language Learning Web App**
-
-- 🌱 I’m currently learning **Next.js, Tailwind CSS**
-
-- 👯 I’m looking to collaborate on **BlindConnect – A Voice-Activated Navigation App for Visually Impaired**
-
-- 🤝 I’m looking for help with **HealthTrackU – College Health & Fitness Tracker (Java + MySQL)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Daniish-Qureshi](https://github.com/Daniish-Qureshi)
-
-- 💬 Ask me about **C Language, C++ Language, HTML5, CSS3, JavaScript, and building responsive UI/UX**
-
-- 📫 How to reach me **danishwork29@gmail.com**
-
-- ⚡ Fun fact **I can debug faster with music 🎧 and I genuinely think I'm funnier than I actually am 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/daniish_qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/daniish_qureshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danishqureshi786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danishqureshi786/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/danishsquad786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/danishsquad786" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/daniish_qureshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daniish_qureshi/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/daniish07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/daniish07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/danishqureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/danishqureshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/danish-qureshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/danish-qureshi/" height="30" width="40" /></a>
+<h1 align="center">Hi there, I'm Danish Qureshi 👋</h1>
+<p align="center">
+  🎓 BCA Student • 💻 Frontend Developer • 🌐 Passionate Learner
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniish-qureshi&show_icons=true&locale=en&layout=compact" alt="daniish-qureshi" /></p>
+I’m a BCA student passionate about *web development, with a solid foundation in **HTML, CSS, JavaScript, and **UI/UX design*. I enjoy creating responsive, user-friendly interfaces and developing projects that enhance user experience.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniish-qureshi&show_icons=true&locale=en" alt="daniish-qureshi" /></p>
+Currently, I'm looking for opportunities in a *collaborative and growth-focused environment* where I can apply my skills, learn new technologies, and contribute to meaningful projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniish-qureshi&" alt="daniish-qureshi" /></p>
+---
+
+## 📬 Contact Me
+
+- 📧 [Gmail](mailto:danishwork29@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danishqureshi786)
+
+---
+
+## 🚀 Recent Projects
+
+| Project | Live Demo |
+|--------|-----------|
+| 🔁 3D Profile Flip Card | [Live](https://daniish-qureshi.github.io/3D-Profile-Flip-Card/) |
+| 🧮 Calculator | [Live](https://daniish-qureshi.github.io/Calculator/) |
+| 🔐 Captcha Generator | [Live](https://daniish-qureshi.github.io/Captcha-Generator/) |
+| 🎵 D Music Player | [Live](https://daniish-qureshi.github.io/D-Music-Player/) |
+| 📚 Add Book Library System | [Live](https://daniish-qureshi.github.io/Add-Book-Library-System/) |
+| 🎬 Netflix Clone | [Live](https://daniish-qureshi.github.io/Netflix-Clone/) |
+| 🔄 Flipping Card | [Live](https://daniish-qureshi.github.io/Flipping-Card/) |
+| 🔑 Login & Signup Form | [Live](https://daniish-qureshi.github.io/Login-Singup-Form/) |
+
+---
+
+## 🧑‍💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Frameworks & Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniish-qureshi&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniish-qureshi&layout=compact&theme=dark" width="49%" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daniish-qureshi&theme=dark&hide_border=true" />
+</p>
+
+---
+
+✨ Thanks for visiting! Let's connect and create something amazing.
