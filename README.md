@@ -1,4 +1,4 @@
-![Banner](https://postimage.me/images/2025/05/29/file_0000000001e861f9818f2b3d80e6070c.png)
+![Banner]([https://postimage.me/images/2025/05/29/file_0000000001e861f9818f2b3d80e6070c.png](https://postimage.me/image/ChatGPT-Image-May-29%2C-2025%2C-11-59-53-AM.UynjHf))
 
 <h1 align="center">Hi there, I'm Danish Qureshi 👋</h1>
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-I’m a BCA student passionate about *web development, with a solid foundation in **HTML, CSS, JavaScript, and **UI/UX design*. I enjoy creating responsive, user-friendly interfaces and developing projects that enhance user experience.
+I’m a BCA student passionate about *web development, with a solid foundation in HTML, CSS, JavaScript, and UI/UX design*. I enjoy creating responsive, user-friendly interfaces and developing projects that enhance user experience.
 
 Currently, I'm looking for opportunities in a *collaborative and growth-focused environment* where I can apply my skills, learn new technologies, and contribute to meaningful projects.
 
