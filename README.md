@@ -57,6 +57,7 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
 
 ## 🧰 Tools
 
+<h3 align="left"></h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -64,21 +65,12 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Code::Blocks_logo.png" alt="codeblocks" width="40" height="40"/>
-  </a>
-  <a href="https://codepen.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
-  </a>
-  <a href="https://www.turboc.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Turbo_C%2B%2B_Logo.png" alt="turbo c" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turbo_C-003545?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
