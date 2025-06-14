@@ -7,7 +7,7 @@
 
 ---
 
-I’m a BCA student passionate about *web development, with a solid foundation in HTML, CSS, JavaScript, and UI/UX design*. I enjoy creating responsive, user-friendly interfaces and developing projects that enhance user experience.
+I’m a BCA student passionate about *web development, with a solid foundation in HTML, CSS, JavaScript, and UI/UX design. I enjoy creating responsive, user-friendly interfaces and developing projects that enhance user experience.
 
 Currently, I'm looking for opportunities in a *collaborative and growth-focused environment* where I can apply my skills, learn new technologies, and contribute to meaningful projects.
 
