@@ -55,7 +55,7 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
 
 ---
 
-## 🧰 Tools
+## 🧰 Tools & Platforms
 
 <h3 align="left"></h3>
 <p align="left">
