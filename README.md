@@ -1,5 +1,3 @@
-![Banner](https://postimage.me/images/2025/06/14/ChatGPT-Image-May-29-2025-11_59_53-AM.png)
-
 <h1 align="center">Hi there, I'm Danish Qureshi 👋</h1>
 <p align="center">
   🎓 BCA Student • 💻 Frontend Developer • 🌐 Passionate Learner
