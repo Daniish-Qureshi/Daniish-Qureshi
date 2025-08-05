@@ -11,6 +11,14 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Daniish-Qureshi">
+    <img src="https://github-profile-trophy.vercel.app/?username=Daniish-Qureshi&theme=dracula">
+  </a>
+</p>
+
+---
+
 ## 📬 Contact Me
 
 - 📧 [Gmail](mailto:danishwork29@gmail.com)
