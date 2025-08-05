@@ -19,25 +19,11 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
 
 ---
 
-## 📬 Contact Me
-
-- 📧 [Gmail](mailto:danishwork29@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/danishqureshi786)
-
----
-
 ## 🚀 Recent Projects
 
 | Project | Live Demo |
 |--------|-----------|
-| 🔁 3D Profile Flip Card | [Live](https://daniish-qureshi.github.io/3D-Profile-Flip-Card/) |
-| 🧮 Calculator | [Live](https://daniish-qureshi.github.io/Calculator/) |
-| 🔐 Captcha Generator | [Live](https://daniish-qureshi.github.io/Captcha-Generator/) |
-| 🎵 D Music Player | [Live](https://daniish-qureshi.github.io/D-Music-Player/) |
-| 📚 Add Book Library System | [Live](https://daniish-qureshi.github.io/Add-Book-Library-System/) |
 | 🎬 Netflix Clone | [Live](https://daniish-qureshi.github.io/Netflix-Clone/) |
-| 🔄 Flipping Card | [Live](https://daniish-qureshi.github.io/Flipping-Card/) |
-| 🔑 Login & Signup Form | [Live](https://daniish-qureshi.github.io/Login-Singup-Form/) |
 
 ---
 
@@ -68,12 +54,7 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Turbo_C-003545?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code::Blocks-222222?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -95,6 +76,13 @@ Currently, I'm looking for opportunities in a *collaborative and growth-focused 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=daniish-qureshi&theme=dark&hide_border=true" />
 </p>
+
+---
+
+## 📬 Contact Me
+
+- 📧 [Gmail](mailto:danishwork29@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danishqureshi786)
 
 ---
 
