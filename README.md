@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Daniish-Qureshi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Daniish-Qureshi?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Front%20End%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </div>
 
 ---
@@ -62,8 +62,7 @@
 ## 🌟 More About Me  
 
 - 🔭 Working on **Sign Language Project**  
-- 👯 Open to collaborating on **Open Source Projects**  
-- 🤔 Seeking guidance on **Machine Learning Model Optimization**  
+- 👯 Open to collaborating on **Open Source Projects**    
 - 💬 Ask me about **C, C++, HTML5, CSS3, JavaScript**  
 - 📫 Reach me at: **danishwork29@gmail.com**  
 - 😄 Pronouns: **He/Him**   
