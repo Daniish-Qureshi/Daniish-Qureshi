@@ -16,8 +16,6 @@
 
 ---
 
-## 🚀 About Me
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 👨‍💻 About Me  
@@ -81,7 +79,7 @@
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
@@ -91,7 +89,7 @@
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sql,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
