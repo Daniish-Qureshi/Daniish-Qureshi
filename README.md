@@ -68,8 +68,7 @@
 - 🤔 Seeking guidance on **Machine Learning Model Optimization**  
 - 💬 Ask me about **C, C++, HTML5, CSS3, JavaScript**  
 - 📫 Reach me at: **danishwork29@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *I can debug code faster with coffee ☕*  
+- 😄 Pronouns: **He/Him**   
 
 ---
 
@@ -97,7 +96,7 @@
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,excel,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,netlify,googlefirebase,canva&theme=dark" />
 </p>
 
 ---
@@ -159,16 +158,6 @@
 </div>
 
 ---
-
-## 💰 Support My Work
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/your-username)
-
-</div>
 
 ---
 
