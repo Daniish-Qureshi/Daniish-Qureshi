@@ -81,7 +81,7 @@
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
@@ -91,12 +91,12 @@
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sql,mysql&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,netlify,googlefirebase,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,netlify&theme=dark" />
 </p>
 
 ---
