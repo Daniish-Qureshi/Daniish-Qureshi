@@ -32,25 +32,19 @@ Interest: Full Stack Developer
 Education: Bachelor of Computer Applications
 Experience: Fresher
 
-Fields Of Interests: [
-  "Full-Stack Web Development",
+Fields Of Interests:
+  Full-Stack Web Development
+  Artificial Intelligence 
+  Open Source Contributions
 
-  "Artificial Intelligence", 
-  "Open Source Contributions"
-]
+Technical Background:
+  Full-Stack Development
 
-Technical Background: [
-
-  "Full-Stack Development (MERN/MEAN Stack)",
-]
-
-hobbies: [
-
-  "🌟 Contributing to Open Source",
-  "🎵 Music Production & Audio Engineering",
-  "📸 Photography & Digital Art",
-  "🏃‍♂️ Running & Fitness"
-]
+hobbies:
+  🌟 Contributing to Open Source
+  🎵 Music Production & Audio Engineering
+  📸 Photography & Digital Art
+  🏃‍♂️ Running & Fitness
 
 ### 🎯 What Drives Me
 
@@ -64,13 +58,12 @@ hobbies: [
 
 ### 🌟 My Philosophy
 
-"Clean, maintainable, and well-documented",
+Clean, maintainable, and well-documented",
   problemSolving: "Break complex problems into simple solutions",
   learning: "Stay curious, embrace challenges, never stop growing",
   collaboration: "Great products are built by great teams",
   impact: "Technology should make life better for everyone"
-};
-
+  
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -82,7 +75,7 @@ hobbies: [
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,html,css,ja,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,ja,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
@@ -335,7 +328,6 @@ AWS/GCP: ███████░░░░░ 70%
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishwork29@gmail.com)
 </div>
 
-</div>
 
 ---
 
