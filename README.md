@@ -106,10 +106,191 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight&hide_border=true)](https://github.com/your-username/project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight&hide_border=true)](https://github.com/your-username/project-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=tokyonight&hide_border=true)](https://github.com/your-username/project-3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4&theme=tokyonight&hide_border=true)](https://github.com/your-username/project-4)
+### 🌟 Project Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+**🛒 E-Commerce Platform**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ecommerce-platform&theme=tokyonight&hide_border=true)](https://github.com/your-username/ecommerce-platform)
+
+**Description:** Full-stack e-commerce solution with advanced features
+- 🔐 JWT Authentication & Authorization
+- 💳 Stripe Payment Integration
+- 📱 Responsive Design with Tailwind CSS
+- 🚀 Real-time Inventory Management
+- 📊 Admin Dashboard with Analytics
+
+**Tech Stack:** React, Node.js, MongoDB, Express, Stripe API
+
+</td>
+<td width="50%">
+
+**🤖 AI Chat Application**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ai-chat-app&theme=tokyonight&hide_border=true)](https://github.com/your-username/ai-chat-app)
+
+**Description:** Intelligent chatbot with natural language processing
+- 🧠 OpenAI GPT Integration
+- 💬 Real-time Messaging with Socket.io
+- 🎨 Modern UI with Framer Motion
+- 📝 Conversation History & Export
+- 🌐 Multi-language Support
+
+**Tech Stack:** Next.js, TypeScript, OpenAI API, Socket.io, Prisma
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 Data Analytics Dashboard**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=analytics-dashboard&theme=tokyonight&hide_border=true)](https://github.com/your-username/analytics-dashboard)
+
+**Description:** Interactive dashboard for business intelligence
+- 📈 Dynamic Charts with Chart.js & D3.js
+- 🔄 Real-time Data Synchronization
+- 📋 Custom Report Generation
+- 🎯 KPI Tracking & Alerts
+- 📱 Mobile-responsive Design
+
+**Tech Stack:** React, Python, FastAPI, PostgreSQL, Redis
+
+</td>
+<td width="50%">
+
+**🏠 Smart Home IoT System**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=smart-home-iot&theme=tokyonight&hide_border=true)](https://github.com/your-username/smart-home-iot)
+
+**Description:** IoT-based home automation system
+- 🌡️ Temperature & Humidity Monitoring
+- 💡 Smart Lighting Control
+- 🔒 Security System Integration
+- 📱 Mobile App for Remote Control
+- 🤖 AI-powered Automation Rules
+
+**Tech Stack:** React Native, Node.js, MQTT, Arduino, Firebase
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💡 Technical Skills & Expertise
+
+<!-- Added comprehensive technical skills section with proficiency levels -->
+<div align="center">
+
+### 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="33%">
+
+**Frontend Development**
+\`\`\`yaml
+React/Next.js: ████████████ 95%
+TypeScript: ███████████░ 90%
+Vue.js: ████████░░░░ 75%
+Tailwind CSS: ████████████ 95%
+Framer Motion: ███████░░░░░ 70%
+\`\`\`
+
+**Key Projects:**
+- 🎨 Built 15+ responsive web applications
+- ⚡ Optimized performance by 40% using Next.js
+- 🔄 Implemented complex state management
+- 📱 Created mobile-first designs
+
+</td>
+<td width="33%">
+
+**Backend Development**
+\`\`\`yaml
+Node.js/Express: ████████████ 95%
+Python/Django: ██████████░░ 85%
+REST APIs: ████████████ 95%
+GraphQL: ████████░░░░ 75%
+Microservices: ███████░░░░░ 70%
+\`\`\`
+
+**Key Projects:**
+- 🚀 Designed scalable APIs serving 10K+ users
+- 🔐 Implemented secure authentication systems
+- 📊 Built real-time data processing pipelines
+- ⚡ Optimized database queries by 60%
+
+</td>
+<td width="33%">
+
+**Database & DevOps**
+\`\`\`yaml
+MySQL/PostgreSQL: ████████████ 95%
+MongoDB: ██████████░░ 85%
+Redis: ████████░░░░ 75%
+Docker: ██████████░░ 85%
+AWS/GCP: ███████░░░░░ 70%
+\`\`\`
+
+**Key Projects:**
+- 🗄️ Designed complex database schemas
+- 🐳 Containerized 20+ applications
+- ☁️ Deployed scalable cloud infrastructure
+- 📈 Implemented monitoring & logging
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Tools & Technologies Proficiency
+
+<details>
+<summary><b>📊 Data Analysis & Business Intelligence</b></summary>
+
+- **Microsoft Excel:** Advanced formulas, Pivot Tables, VBA Macros, Data Modeling
+- **Power BI:** Interactive dashboards, DAX queries, Data visualization, Report automation
+- **Python Analytics:** Pandas, NumPy, Matplotlib, Seaborn for data analysis
+- **SQL:** Complex queries, stored procedures, performance optimization
+
+**Recent Projects:**
+- 📈 Created executive dashboards tracking 50+ KPIs
+- 🔍 Automated data analysis reducing manual work by 80%
+- 📊 Built predictive models for sales forecasting
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Emerging Technologies</b></summary>
+
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **AI Integration:** OpenAI API, Hugging Face, LangChain
+- **Computer Vision:** OpenCV, YOLO, Image processing
+- **Natural Language Processing:** NLTK, spaCy, Transformers
+
+**Recent Projects:**
+- 🧠 Built recommendation systems with 85% accuracy
+- 👁️ Developed image classification models
+- 💬 Created intelligent chatbots with context awareness
+
+</details>
+
+<details>
+<summary><b>🔧 Development Tools & Workflow</b></summary>
+
+- **Version Control:** Git, GitHub Actions, GitLab CI/CD
+- **Code Editors:** VS Code, Vim, IntelliJ IDEA
+- **Testing:** Jest, Cypress, Pytest, Unit/Integration testing
+- **Project Management:** Jira, Trello, Notion, Agile methodologies
+
+**Workflow Expertise:**
+- 🔄 Implemented CI/CD pipelines reducing deployment time by 70%
+- 🧪 Achieved 90%+ test coverage in critical applications
+- 📋 Led agile teams using Scrum methodology
+
+</details>
 
 </div>
 
