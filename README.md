@@ -26,64 +26,31 @@
 
 I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for creating innovative solutions that make a real impact. My journey began with curiosity about how websites work, and it has evolved into a deep passion for building scalable, user-centric applications that solve real-world problems.
 
-\`\`\`yaml
-name: Your Name
-located_in: Your City, Country
-current_job: Full Stack Developer & AI Specialist
-education: ["Computer Science Graduate", "Self-Taught Developer", "Continuous Learner"]
-company: Your Company / Freelancer
-experience: 3+ years in Full-Stack Development
+Name: Danish Qureshi
+Located: Dadri 
+Interest: Full Stack Developer
+Education: Bachelor of Computer Applications
+Experience: Fresher
 
-personality: {
-  problem_solver: true,
-  team_player: true,
-  continuous_learner: true,
-  coffee_addict: true ☕
-}
-
-fields_of_interests: [
+Fields Of Interests: [
   "Full-Stack Web Development",
-  "Artificial Intelligence & Machine Learning", 
-  "Cloud Computing & DevOps",
-  "Data Analytics & Business Intelligence",
-  "System Design & Architecture",
+
+  "Artificial Intelligence", 
   "Open Source Contributions"
 ]
 
-technical_background: [
+Technical Background: [
+
   "Full-Stack Development (MERN/MEAN Stack)",
-  "AI/ML Integration & Implementation", 
-  "Database Design & Optimization",
-  "Cloud Architecture & Deployment",
-  "Data Analysis & Visualization",
-  "System Design & Scalability"
-]
-
-currently_learning: [
-  "Next.js 15 & React Server Components",
-  "Advanced AI Integration Patterns",
-  "Microservices Architecture", 
-  "Kubernetes & Container Orchestration",
-  "Advanced Data Analytics with Power BI"
-]
-
-will_learn: [
-  "Rust for System Programming",
-  "Go for Backend Services", 
-  "WebAssembly for Performance",
-  "Blockchain & Web3 Technologies",
-  "Advanced Machine Learning Algorithms"
 ]
 
 hobbies: [
-  "🎮 Gaming & Game Development",
-  "📚 Reading Tech Blogs & Research Papers", 
+
   "🌟 Contributing to Open Source",
   "🎵 Music Production & Audio Engineering",
   "📸 Photography & Digital Art",
   "🏃‍♂️ Running & Fitness"
 ]
-\`\`\`
 
 ### 🎯 What Drives Me
 
@@ -93,39 +60,16 @@ hobbies: [
 - 🤔 **Seeking Help With:** Advanced machine learning model optimization and distributed systems design
 - 💬 **Ask Me About:** React ecosystem, Node.js backend development, Python automation, system design, API architecture, and data visualization
 - 📫 **Reach Me At:** **yourmail@gmail.com** | Always open to interesting conversations and collaboration opportunities
-- 😄 **Pronouns:** **He/Him**
 - ⚡ **Fun Fact:** I can debug complex code faster with a good cup of coffee ☕ and have solved over 500+ coding challenges!
 
 ### 🌟 My Philosophy
 
-\`\`\`javascript
-const myApproach = {
-  codeQuality: "Clean, maintainable, and well-documented",
+"Clean, maintainable, and well-documented",
   problemSolving: "Break complex problems into simple solutions",
   learning: "Stay curious, embrace challenges, never stop growing",
   collaboration: "Great products are built by great teams",
   impact: "Technology should make life better for everyone"
 };
-
-// My daily motivation
-const dailyGoals = () => {
-  return [
-    "Write cleaner code than yesterday",
-    "Learn something new and exciting", 
-    "Help someone in the developer community",
-    "Build something that matters"
-  ];
-};
-\`\`\`
-
-### 📈 Professional Highlights
-
-- 🚀 **3+ Years** of hands-on development experience
-- 💼 **15+ Projects** delivered from concept to production
-- 🌐 **10K+ Users** served by applications I've built
-- 📊 **50+ Repositories** contributed to open source community
-- 🏆 **Top 10%** contributor in several developer communities
-- 📝 **Technical Writer** sharing knowledge through blogs and tutorials
 
 ---
 
@@ -133,30 +77,28 @@ const dailyGoals = () => {
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,java,c,cpp&theme=dark" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,sass,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=,html,css,ja,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase,aws,gcp,docker,kubernetes&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,bash,postman,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,vercel,netlify&theme=dark" />
   <br/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
@@ -164,16 +106,16 @@ const dailyGoals = () => {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniish-Qureshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniish-Qureshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniish-Qureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniish-Qureshi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -181,7 +123,7 @@ const dailyGoals = () => {
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Daniish-Qureshi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -275,13 +217,11 @@ const dailyGoals = () => {
 <td width="33%">
 
 **Frontend Development**
-\`\`\`yaml
-React/Next.js: ████████████ 95%
+React/Next.js: ████████████ 13%
 TypeScript: ███████████░ 90%
 Vue.js: ████████░░░░ 75%
 Tailwind CSS: ████████████ 95%
 Framer Motion: ███████░░░░░ 70%
-\`\`\`
 
 **Key Projects:**
 - 🎨 Built 15+ responsive web applications
@@ -293,13 +233,11 @@ Framer Motion: ███████░░░░░ 70%
 <td width="33%">
 
 **Backend Development**
-\`\`\`yaml
 Node.js/Express: ████████████ 95%
 Python/Django: ██████████░░ 85%
 REST APIs: ████████████ 95%
 GraphQL: ████████░░░░ 75%
 Microservices: ███████░░░░░ 70%
-\`\`\`
 
 **Key Projects:**
 - 🚀 Designed scalable APIs serving 10K+ users
@@ -311,13 +249,11 @@ Microservices: ███████░░░░░ 70%
 <td width="33%">
 
 **Database & DevOps**
-\`\`\`yaml
 MySQL/PostgreSQL: ████████████ 95%
 MongoDB: ██████████░░ 85%
 Redis: ████████░░░░ 75%
 Docker: ██████████░░ 85%
 AWS/GCP: ███████░░░░░ 70%
-\`\`\`
 
 **Key Projects:**
 - 🗄️ Designed complex database schemas
@@ -388,65 +324,16 @@ AWS/GCP: ███████░░░░░ 70%
 
 ---
 
-## 🎯 Current Focus
-
-\`\`\`javascript
-const currentFocus = {
-  learning: ["Next.js 15", "AI/ML Integration", "System Design"],
-  building: ["E-commerce Platform", "AI Chat Application", "Portfolio Website"],
-  reading: ["Clean Architecture", "System Design Interview", "AI Papers"],
-  goals: {
-    2024: "Contribute to 50+ open source projects",
-    longTerm: "Build products that impact millions of users"
-  }
-};
-\`\`\`
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with Next.js 15](https://your-blog.com/post-1)
-- [Understanding System Design: A Beginner's Guide](https://your-blog.com/post-2)
-- [AI Integration in Modern Web Applications](https://your-blog.com/post-3)
-- [The Future of Full-Stack Development](https://your-blog.com/post-4)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniish_qureshi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danishsquad786)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daniish_qureshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishqureshi786/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniish-Qureshi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishwork29@gmail.com)
 </div>
-
----
-
-## 💰 Support My Work
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/your-username)
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
 </div>
 
@@ -464,5 +351,5 @@ const currentFocus = {
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/your-username">Your Name</a></i>
+  <i>⭐️ From <a href="[https://github.com/your-username](https://github.com/Daniish-Qureshi)">DANISH QURESHI</a></i>
 </div>
