@@ -99,73 +99,56 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎬 Netflix Clone**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ecommerce-platform&theme=tokyonight&hide_border=true)](https://github.com/Daniish-Qureshi/Netflix-Clone)
+<h3>🎬 Netflix Clone</h3>
 
-**Description:** A simple and responsive Netflix Clone built using HTML and CSS. This project mimics the homepage design of Netflix and is fully user-friendly with a clean layout, optimized for different screen sizes.
-🎯 Real Netflix-style homepage design
-📱 Fully responsive for all devices
-🧭 Easy to navigate UI
-🧼 Clean and minimalistic layout
-🙌 Beginner-friendly code structure
+<a href="https://github.com/Daniish-Qureshi/Netflix-Clone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniish-Qureshi&repo=Netflix-Clone&theme=tokyonight&hide_border=true" />
+</a>
 
-**Tech Stack:** HTML5, CSS3
+<p><strong>Description:</strong> A simple and responsive Netflix Clone built using HTML and CSS.  
+This project mimics the homepage design of Netflix and is fully user-friendly with a clean layout, optimized for different screen sizes.</p>
 
-</td>
-<td width="50%">
+<ul>
+<li>🎯 Real Netflix-style homepage design</li>
+<li>📱 Fully responsive for all devices</li>
+<li>🧭 Easy to navigate UI</li>
+<li>🧼 Clean and minimalistic layout</li>
+<li>🙌 Beginner-friendly code structure</li>
+</ul>
 
-**📚 Add Book Library System**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ai-chat-app&theme=tokyonight&hide_border=true)](https://github.com/Daniish-Qureshi/Netflix-Clone)
-
-**Description:** A modern and responsive Book Library System built using HTML, CSS, and JavaScript.
-This project allows users to add, delete, mark as complete, and manage their favorite books — all with a clean, responsive, and user-friendly interface.
-
-📚 Add Books – Quickly add your favorite books
-🗑️ Delete Books – Remove unwanted books with a single click
-✅ Mark as Complete – Track your reading progress
-📱 Responsive Design – Optimized for mobile, tablet, and desktop
-🎯 User-Friendly UI – Clean, minimal, and easy to navigate
-🧼 Clean Codebase – Perfect for beginners to learn from
-
-**Tech Stack:** HTML5, CSS3, JavaScript
+<p><strong>Tech Stack:</strong> HTML5, CSS3</p>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📊 Data Analytics Dashboard**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=analytics-dashboard&theme=tokyonight&hide_border=true)](https://github.com/your-username/analytics-dashboard)
+<h3>📚 Add Book Library System</h3>
 
-**Description:** Interactive dashboard for business intelligence
-- 📈 Dynamic Charts with Chart.js & D3.js
-- 🔄 Real-time Data Synchronization
-- 📋 Custom Report Generation
-- 🎯 KPI Tracking & Alerts
-- 📱 Mobile-responsive Design
+<a href="https://github.com/Daniish-Qureshi/Add-Book-Library-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniish-Qureshi&repo=Add-Book-Library-System&theme=tokyonight&hide_border=true" />
+</a>
 
-**Tech Stack:** React, Python, FastAPI, PostgreSQL, Redis
+<p><strong>Description:</strong> A modern and responsive Book Library System built using HTML, CSS, and JavaScript.  
+This project allows users to add, delete, mark as complete, and manage their favorite books — all with a clean, responsive, and user-friendly interface.</p>
 
-</td>
-<td width="50%">
+<ul>
+<li>📚 Add Books – Quickly add your favorite books</li>
+<li>🗑️ Delete Books – Remove unwanted books with a single click</li>
+<li>✅ Mark as Complete – Track your reading progress</li>
+<li>📱 Responsive Design – Optimized for mobile, tablet, and desktop</li>
+<li>🎯 User-Friendly UI – Clean, minimal, and easy to navigate</li>
+<li>🧼 Clean Codebase – Perfect for beginners to learn from</li>
+</ul>
 
-**🏠 Smart Home IoT System**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=smart-home-iot&theme=tokyonight&hide_border=true)](https://github.com/your-username/smart-home-iot)
-
-**Description:** IoT-based home automation system
-- 🌡️ Temperature & Humidity Monitoring
-- 💡 Smart Lighting Control
-- 🔒 Security System Integration
-- 📱 Mobile App for Remote Control
-- 🤖 AI-powered Automation Rules
-
-**Tech Stack:** React Native, Node.js, MQTT, Arduino, Firebase
+<p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript</p>
 
 </td>
 </tr>
 </table>
+
+
+
 </div>
 </details>
 </div>
