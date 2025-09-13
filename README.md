@@ -1,4 +1,4 @@
-v  <!-- Dynamic Header with Typing Animation -->
+<!-- Dynamic Header with Typing Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
@@ -29,12 +29,10 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 ### 🎯 What Drives Me
 
 - 🔭 **Currently Working On:** Building AI-powered web applications that enhance user productivity and experience
-- 🌱 **Learning Journey:** Mastering advanced React patterns, system design principles, and cloud-native architectures
+- 🌱 **Learning Journey:** Mastering React patterns, system design principles, and cloud-native architectures
 - 👯 **Collaboration Goals:** Seeking opportunities to work on innovative open source projects and cutting-edge startups
 - 🤔 **Seeking Help With:** Advanced machine learning model optimization and distributed systems design
-- 💬 **Ask Me About:** React ecosystem, Node.js backend development, Python automation, system design, API architecture, and data visualization
-- 📫 **Reach Me At:** **yourmail@gmail.com** | Always open to interesting conversations and collaboration opportunities
-- ⚡ **Fun Fact:** I can debug complex code faster with a good cup of coffee ☕ and have solved over 500+ coding challenges!
+- 📫 **Reach Me At:** **danishwork29@gmail.com** | Always open to interesting conversations and collaboration opportunities
   
 ---
 
@@ -103,32 +101,35 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 <tr>
 <td width="50%">
 
-**🛒 E-Commerce Platform**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ecommerce-platform&theme=tokyonight&hide_border=true)](https://github.com/your-username/ecommerce-platform)
+**🎬 Netflix Clone**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ecommerce-platform&theme=tokyonight&hide_border=true)](https://github.com/Daniish-Qureshi/Netflix-Clone)
 
-**Description:** Full-stack e-commerce solution with advanced features
-- 🔐 JWT Authentication & Authorization
-- 💳 Stripe Payment Integration
-- 📱 Responsive Design with Tailwind CSS
-- 🚀 Real-time Inventory Management
-- 📊 Admin Dashboard with Analytics
+**Description:** A simple and responsive Netflix Clone built using HTML and CSS. This project mimics the homepage design of Netflix and is fully user-friendly with a clean layout, optimized for different screen sizes.
+🎯 Real Netflix-style homepage design
+📱 Fully responsive for all devices
+🧭 Easy to navigate UI
+🧼 Clean and minimalistic layout
+🙌 Beginner-friendly code structure
 
-**Tech Stack:** React, Node.js, MongoDB, Express, Stripe API
+**Tech Stack:** HTML5, CSS3
 
 </td>
 <td width="50%">
 
-**🤖 AI Chat Application**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ai-chat-app&theme=tokyonight&hide_border=true)](https://github.com/your-username/ai-chat-app)
+**📚 Add Book Library System**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ai-chat-app&theme=tokyonight&hide_border=true)](https://github.com/Daniish-Qureshi/Netflix-Clone)
 
-**Description:** Intelligent chatbot with natural language processing
-- 🧠 OpenAI GPT Integration
-- 💬 Real-time Messaging with Socket.io
-- 🎨 Modern UI with Framer Motion
-- 📝 Conversation History & Export
-- 🌐 Multi-language Support
+**Description:** A modern and responsive Book Library System built using HTML, CSS, and JavaScript.
+This project allows users to add, delete, mark as complete, and manage their favorite books — all with a clean, responsive, and user-friendly interface.
 
-**Tech Stack:** Next.js, TypeScript, OpenAI API, Socket.io, Prisma
+📚 Add Books – Quickly add your favorite books
+🗑️ Delete Books – Remove unwanted books with a single click
+✅ Mark as Complete – Track your reading progress
+📱 Responsive Design – Optimized for mobile, tablet, and desktop
+🎯 User-Friendly UI – Clean, minimal, and easy to navigate
+🧼 Clean Codebase – Perfect for beginners to learn from
+
+**Tech Stack:** HTML5, CSS3, JavaScript
 
 </td>
 </tr>
