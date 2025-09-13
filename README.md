@@ -26,26 +26,6 @@
 
 I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for creating innovative solutions that make a real impact. My journey began with curiosity about how websites work, and it has evolved into a deep passion for building scalable, user-centric applications that solve real-world problems.
 
-Name: Danish Qureshi
-Located: Dadri 
-Interest: Full Stack Developer
-Education: Bachelor of Computer Applications
-Experience: Fresher
-
-Fields Of Interests:
-  Full-Stack Web Development
-  Artificial Intelligence 
-  Open Source Contributions
-
-Technical Background:
-  Full-Stack Development
-
-hobbies:
-  🌟 Contributing to Open Source
-  🎵 Music Production & Audio Engineering
-  📸 Photography & Digital Art
-  🏃‍♂️ Running & Fitness
-
 ### 🎯 What Drives Me
 
 - 🔭 **Currently Working On:** Building AI-powered web applications that enhance user productivity and experience
@@ -55,14 +35,6 @@ hobbies:
 - 💬 **Ask Me About:** React ecosystem, Node.js backend development, Python automation, system design, API architecture, and data visualization
 - 📫 **Reach Me At:** **yourmail@gmail.com** | Always open to interesting conversations and collaboration opportunities
 - ⚡ **Fun Fact:** I can debug complex code faster with a good cup of coffee ☕ and have solved over 500+ coding challenges!
-
-### 🌟 My Philosophy
-
-Clean, maintainable, and well-documented",
-  problemSolving: "Break complex problems into simple solutions",
-  learning: "Stay curious, embrace challenges, never stop growing",
-  collaboration: "Great products are built by great teams",
-  impact: "Technology should make life better for everyone"
   
 ---
 
@@ -193,70 +165,7 @@ Clean, maintainable, and well-documented",
 </td>
 </tr>
 </table>
-
 </div>
-
----
-
-## 💡 Technical Skills & Expertise
-
-<!-- Added comprehensive technical skills section with proficiency levels -->
-<div align="center">
-
-### 🎯 Core Competencies
-
-<table>
-<tr>
-<td width="33%">
-
-**Frontend Development**
-React/Next.js: ████████████ 13%
-TypeScript: ███████████░ 90%
-Vue.js: ████████░░░░ 75%
-Tailwind CSS: ████████████ 95%
-Framer Motion: ███████░░░░░ 70%
-
-**Key Projects:**
-- 🎨 Built 15+ responsive web applications
-- ⚡ Optimized performance by 40% using Next.js
-- 🔄 Implemented complex state management
-- 📱 Created mobile-first designs
-
-</td>
-<td width="33%">
-
-**Backend Development**
-Node.js/Express: ████████████ 95%
-Python/Django: ██████████░░ 85%
-REST APIs: ████████████ 95%
-GraphQL: ████████░░░░ 75%
-Microservices: ███████░░░░░ 70%
-
-**Key Projects:**
-- 🚀 Designed scalable APIs serving 10K+ users
-- 🔐 Implemented secure authentication systems
-- 📊 Built real-time data processing pipelines
-- ⚡ Optimized database queries by 60%
-
-</td>
-<td width="33%">
-
-**Database & DevOps**
-MySQL/PostgreSQL: ████████████ 95%
-MongoDB: ██████████░░ 85%
-Redis: ████████░░░░ 75%
-Docker: ██████████░░ 85%
-AWS/GCP: ███████░░░░░ 70%
-
-**Key Projects:**
-- 🗄️ Designed complex database schemas
-- 🐳 Containerized 20+ applications
-- ☁️ Deployed scalable cloud infrastructure
-- 📈 Implemented monitoring & logging
-
-</td>
-</tr>
-</table>
 
 ### 🛠️ Tools & Technologies Proficiency
 
