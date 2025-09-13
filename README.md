@@ -166,54 +166,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 </tr>
 </table>
 </div>
-
-### 🛠️ Tools & Technologies Proficiency
-
-<details>
-<summary><b>📊 Data Analysis & Business Intelligence</b></summary>
-
-- **Microsoft Excel:** Advanced formulas, Pivot Tables, VBA Macros, Data Modeling
-- **Power BI:** Interactive dashboards, DAX queries, Data visualization, Report automation
-- **Python Analytics:** Pandas, NumPy, Matplotlib, Seaborn for data analysis
-- **SQL:** Complex queries, stored procedures, performance optimization
-
-**Recent Projects:**
-- 📈 Created executive dashboards tracking 50+ KPIs
-- 🔍 Automated data analysis reducing manual work by 80%
-- 📊 Built predictive models for sales forecasting
-
 </details>
-
-<details>
-<summary><b>🤖 AI/ML & Emerging Technologies</b></summary>
-
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **AI Integration:** OpenAI API, Hugging Face, LangChain
-- **Computer Vision:** OpenCV, YOLO, Image processing
-- **Natural Language Processing:** NLTK, spaCy, Transformers
-
-**Recent Projects:**
-- 🧠 Built recommendation systems with 85% accuracy
-- 👁️ Developed image classification models
-- 💬 Created intelligent chatbots with context awareness
-
-</details>
-
-<details>
-<summary><b>🔧 Development Tools & Workflow</b></summary>
-
-- **Version Control:** Git, GitHub Actions, GitLab CI/CD
-- **Code Editors:** VS Code, Vim, IntelliJ IDEA
-- **Testing:** Jest, Cypress, Pytest, Unit/Integration testing
-- **Project Management:** Jira, Trello, Notion, Agile methodologies
-
-**Workflow Expertise:**
-- 🔄 Implemented CI/CD pipelines reducing deployment time by 70%
-- 🧪 Achieved 90%+ test coverage in critical applications
-- 📋 Led agile teams using Scrum methodology
-
-</details>
-
 </div>
 
 ---
@@ -229,12 +182,24 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 ## 🌐 Connect With Me
 
 <div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniish_qureshi/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danishsquad786)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daniish_qureshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishqureshi786/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniish-Qureshi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishwork29@gmail.com)
+  <a href="https://www.instagram.com/daniish_qureshi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/danishsquad786">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/daniish_qureshi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danishqureshi786/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Daniish-Qureshi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:danishwork29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 
