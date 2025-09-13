@@ -1,4 +1,4 @@
-<!-- Dynamic Header with Typing Animation -->
+v  <!-- Dynamic Header with Typing Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
@@ -47,7 +47,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ja,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
