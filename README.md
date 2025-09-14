@@ -28,11 +28,10 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🎯 What Drives Me
 
-- 🔭 **Currently Working On:** Building AI-powered web applications that enhance user productivity and experience
-- 🌱 **Learning Journey:** Mastering React patterns, system design principles, and cloud-native architectures
-- 👯 **Collaboration Goals:** Seeking opportunities to work on innovative open source projects and cutting-edge startups
-- 🤔 **Seeking Help With:** Advanced machine learning model optimization and distributed systems design
-- 📫 **Reach Me At:** **danishwork29@gmail.com** | Always open to interesting conversations and collaboration opportunities
+- 🔭 Currently Working On: Web development projects & open-source contributions  
+- 🌱 Learning: React.js, Node.js, and modern full-stack development  
+- 👯 Looking to Collaborate On: Beginner-friendly open source projects  
+- 💡 Interests: UI/UX design, clean code, and building scalable apps  
   
 ---
 
