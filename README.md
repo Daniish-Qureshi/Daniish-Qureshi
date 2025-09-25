@@ -53,12 +53,12 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=canva,vscode,git,github,gitlab,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify&theme=dark" />
   <br/>
 </p>
 
