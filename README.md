@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,chatgpt&theme=dark" />
   <br/>
 </p>
 
@@ -67,9 +67,6 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Canvas" />
-  <img src="https://img.shields.io/badge/Turbo_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Turbo C" />
 </p>
 
 ---
