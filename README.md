@@ -21,7 +21,7 @@
 
 ### 👨‍💻 My Journey
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – Danish Qureshi 
 
 I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for creating innovative solutions that make a real impact. My journey began with curiosity about how websites work, and it has evolved into a deep passion for building scalable, user-centric applications that solve real-world problems.
 
