@@ -43,7 +43,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
