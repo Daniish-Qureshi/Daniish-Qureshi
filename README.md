@@ -38,7 +38,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,java&theme=dark" />
 </p>
 
 ### 🎨 Frontend Development
