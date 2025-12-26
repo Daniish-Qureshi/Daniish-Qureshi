@@ -58,17 +58,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,chatgpt&theme=dark" />
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,chatgpt&theme=dark" />
-  <br/>
-  <!-- added Prisma Studio, Google AI Studio, Uizard, and Stitch to the tools list -->
-  <img src="https://img.shields.io/badge/Prisma_Studio-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma Studio" />
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Studio" />
-  <img src="https://img.shields.io/badge/Uizard-FF5C00?style=flat&logo=uizard&logoColor=white" alt="Uizard" />
-  <img src="https://img.shields.io/badge/Stitch-00C4CC?style=flat&logo=stitch&logoColor=white" alt="Stitch" />
-</p>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,chatgpt,prisma,mongodb,google&theme=dark" />
 </p>
 
 ---
