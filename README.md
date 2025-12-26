@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,chatgpt&theme=dark" />
   <br/>
 </p>
 
