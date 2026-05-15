@@ -38,17 +38,17 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Developer** and **AI Enthusiast** with a love for 
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,netlify,prisma,figma&theme=dark" />
 </p>
 
 ---
